@@ -13,6 +13,4 @@ I've got a few pinned projects, but my favorite is [TSRX]([repo-link](https://gi
 - I built a tool that automatically hunts for bugs in web apps, so I don't have to click through everything by hand
 - I've rewritten my resume more times than I'd like to admit
 
-**Hobbies:** gaming, watches, fragrances, building things
-
 **Reach me:** [aayan.atif.business@gmail.com] · [https://www.linkedin.com/in/aayanatif/]
