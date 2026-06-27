@@ -8,6 +8,22 @@ Right now I'm deep in building TSRX, a self-healing dashboard that started as a 
 
 I've got a few pinned projects, but my favorite is [TSRX]([repo-link](https://github.com/Shay350/Ts-Rx)).
 
+## 🛠️ Skills & Tools
+
+**Languages:** Python, JavaScript/TypeScript, C, Java
+
+**Frontend:** React, TypeScript, Vite, Tailwind CSS
+
+**Backend:** FastAPI, PostgreSQL, Node.js
+
+**AI/ML:** PyTorch, scikit-learn, OpenCV, Gemini API
+
+**Testing & QA:** Playwright, manual testing frameworks
+
+**Developer Tools:** Git, GitHub, Docker, VS Code, Linux
+
+**Other:** REST APIs, relational databases, system design
+
 **Fun facts:**
 - I speak four languages: English, Hindi, Punjabi, and Urdu
 - I built a tool that automatically hunts for bugs in web apps, so I don't have to click through everything by hand
